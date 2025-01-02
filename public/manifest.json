@@ -1,0 +1,27 @@
+{
+  "name": "Yr5 project",
+  "short_name": "Yr5 project",
+  "icons": [
+    {
+      "src": "/icons/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/icons/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
