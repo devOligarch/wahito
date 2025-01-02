@@ -3,7 +3,9 @@ import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    const client = new MongoClient(process.env.MONGODB_URI);
+    const client = new MongoClient(
+      "mongodb+srv://devOligarch:!%40Kinuthia2024!@devworks.s8vt2mn.mongodb.net/?retryWrites=true&w=majority&appName=DevWorks"
+    );
 
     let elements = 10;
 

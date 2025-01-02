@@ -11,6 +11,7 @@ import {
   Badge,
   Divider,
   Button,
+  Loader,
 } from "@mantine/core";
 import Image from "next/image";
 import myGif from "../public/solaronly.gif";
@@ -76,15 +77,21 @@ export default function Dashboard() {
 
   return (
     <div>
-      <div className="bg-slate-200 p-8 justify-between items-center sticky top-0 z-50 space-y-3">
+      <div className="bg-slate-200 p-8 items-center sticky top-0 z-50 space-y-3 flex justify-between">
         <DatePickerInput
-          w={"100%"}
+          w={"90%"}
           clearable
           type="range"
           placeholder="From - To"
           value={dates}
           onChange={setDates}
         />
+
+        {loading && (
+          <div className="mt-[-12px]">
+            <Loader size={24} />
+          </div>
+        )}
         {/* <Button
           fullWidth
           onClick={calculate}
