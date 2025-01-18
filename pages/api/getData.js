@@ -18,7 +18,9 @@ export default async function handler(req, res) {
         (date) => new Date(date)
       );
 
-      const getEnergyRecords = async () => {
+      // Energy
+
+      const getAllEnergy = async () => {
         const energyCollection = db.collection("energy_data");
         const energy_records = await energyCollection
           .find({
@@ -44,42 +46,17 @@ export default async function handler(req, res) {
 
           calculatedData.push({
             energy_wh,
-            timestamp: moment(curr.createdAt).format("MMM Do h:mma"),
+            timestamp: `${moment(prev.createdAt).format(
+              "MMM Do h:mma"
+            )} - ${moment(curr.createdAt).format("MMM Do h:mma")}`,
           });
         }
 
         return calculatedData;
       };
 
-      const getIrradianceRecords = async () => {
-        const irradianceCollection = db.collection("irradiance_data");
-        const irradiance_records = await irradianceCollection
-          .find({
-            createdAt: {
-              $gte: startDate,
-              $lte: endDate,
-            },
-          })
-          .sort({ createdAt: 1 })
-          .toArray();
-
-        const calculatedData = [];
-
-        for (let i = 1; i < irradiance_records.length; i++) {
-          const curr = irradiance_records[i];
-
-          calculatedData.push({
-            irradiance: curr.irradiance,
-            timestamp: moment(curr.createdAt).format("MMM Do h:mma"),
-          });
-        }
-
-        return calculatedData;
-      };
-
-      // Refine data as per requirements
       const getEnergyData = async () => {
-        let _calculatedData = await getEnergyRecords();
+        let _calculatedData = await getAllEnergy();
 
         const interval = Math.floor(_calculatedData.length / elements);
 
@@ -93,60 +70,81 @@ export default async function handler(req, res) {
         return selectedData;
       };
 
-      const getIrradianceData = async () => {
-        const _calculatedData = await getIrradianceRecords();
-
-        const interval = Math.floor(_calculatedData.length / elements);
-
-        const selectedData = Array.from({ length: elements }, (_, index) => {
-          const selectedIndex = index * interval;
-          return _calculatedData[
-            Math.min(selectedIndex, _calculatedData.length - 1)
-          ];
-        });
-
-        return selectedData;
-      };
-
-      const getPeakEnergyConsumption = async () => {
-        let _calculatedData = await getEnergyRecords();
+      const getPeakEnergy = async () => {
+        let _calculatedData = await getEnergyData();
 
         return _calculatedData.reduce((max, obj) => {
           return obj.energy_wh > max.energy_wh ? obj : max;
         }, _calculatedData[0]);
       };
 
-      const getTotalEnergyConsumption = async () => {
-        let _calculatedData = await getEnergyRecords();
+      const getTotalEnergy = async () => {
+        let _calculatedData = await getAllEnergy();
 
         return Math.floor(
           _calculatedData.reduce((total, obj) => total + obj.energy_wh, 0)
         );
       };
 
-      const getAverageIrradiance = async () => {
-        const _calculatedData = await getIrradianceRecords();
+      const getAverageEnergy = async () => {
+        let _calculatedData = await getAllEnergy();
 
-        const totalIrradiance = _calculatedData.reduce(
-          (total, obj) => total + obj.irradiance,
-          0
+        let total = Math.floor(
+          _calculatedData.reduce((total, obj) => total + obj.energy_wh, 0)
         );
 
-        return Math.floor(totalIrradiance / _calculatedData.length);
+        const timeDifference = Math.abs(endDate - startDate);
+
+        const daysDifference = Math.ceil(
+          timeDifference / (1000 * 60 * 60 * 24)
+        );
+
+        return Math.ceil(total / daysDifference);
       };
 
-      let energyData = await getEnergyData();
-      let irradianceData = await getIrradianceData();
-      let peakEnergyConsumption = await getPeakEnergyConsumption();
-      let totalEnergyConsumption = await getTotalEnergyConsumption();
-      let averageIrradiance = await getAverageIrradiance();
+      // Solar
+
+      const getPeakSolar = async () => {
+        const years = [2023, 2024];
+        const results = [];
+
+        const _records = await db.collection("ghis").find().toArray();
+
+        for (const year of years) {
+          const startDate = new Date(`${year}-01-01T00:00:00Z`);
+          const endDate = new Date(`${year + 1}-01-01T00:00:00Z`);
+
+          let records = _records?.filter(
+            (record) =>
+              new Date(record?.period_end) > startDate &&
+              new Date(record?.period_end) < endDate
+          );
+
+          const totalIrradiance = records.reduce((sum, record) => {
+            return sum + record.ghi * 0.25; // GHI * 15 minutes (0.25 hours)
+          }, 0);
+
+          // Calculate daily average irradiance (peak sun hours)
+          const peakHours = (totalIrradiance / (365 * 1000)).toFixed(1);
+
+          results.push({ year, peakHours });
+        }
+
+        return results;
+      };
+
+      let chart = await getEnergyData();
+      let averageEnergy = await getAverageEnergy();
+      let totalEnergy = await getTotalEnergy();
+      let peakEnergy = await getPeakEnergy();
+      let peakSolarHrs = await getPeakSolar();
 
       res.status(200).json({
-        energyData,
-        irradianceData,
-        peakEnergyConsumption,
-        totalEnergyConsumption,
-        averageIrradiance,
+        chart,
+        averageEnergy,
+        totalEnergy,
+        peakEnergy,
+        peakSolarHrs,
       });
     } catch (error) {
       res.status(500).json({ message: "Something went wrong!" });
