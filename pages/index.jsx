@@ -79,7 +79,7 @@ export default function Dashboard() {
         }, 0);
 
         // Calculate daily average irradiance (peak sun hours)
-        const peakHours = (totalIrradiance / (365 * 1000)).toFixed(2);
+        const peakHours = Number((totalIrradiance / (365 * 1000)).toFixed(2));
 
         peakSolarHrs.push({ year, peakHours });
       }
@@ -156,6 +156,7 @@ export default function Dashboard() {
       setDates([null, null]);
 
       setData({
+        ...data,
         peakEnergy: null,
         totalEnergy: null,
         averageEnergy: null,
@@ -200,13 +201,24 @@ export default function Dashboard() {
 
       <div className="p-4 space-y-3">
         <Divider labelPosition="right" label="Energy consumption" />
+        <br />
 
-        <LineChart
-          h={200}
-          data={data?.chart}
-          dataKey="timestamp"
-          series={[{ name: "energy_wh", color: "orange.6" }]}
-        />
+        <div className="ml-[-20px]">
+          <LineChart
+            h={200}
+            data={data?.chart}
+            dataKey="timestamp"
+            series={[
+              {
+                name: "energy_wh",
+                color: "orange.6",
+                label: "Energy consumption",
+              },
+            ]}
+            yAxisProps={null}
+            withPointLabels
+          />
+        </div>
       </div>
 
       {data?.averageEnergy && dates[0] && dates[1] ? (
@@ -270,7 +282,10 @@ export default function Dashboard() {
                   Average peak sun hrs
                 </p>
                 <strong>
-                  {data?.averageIrradiance} W/m<sup>2</sup>
+                  {(data?.peakSolarHrs[0]?.peakHours +
+                    data?.peakSolarHrs[1]?.peakHours) /
+                    2}{" "}
+                  hrs
                 </strong>
               </div>
             </div>
@@ -284,14 +299,14 @@ export default function Dashboard() {
                 <p className="text-slate-600 text-[0.8rem]">
                   Solar panels recommendation
                 </p>
-                <strong>30 kWp </strong>
+                <strong>x kWp </strong>
               </div>
 
               <div className="flex justify-between border-b">
                 <p className="text-slate-600 text-[0.8rem]">
                   Battery capacity recommendation
                 </p>
-                <strong>30 kWh </strong>
+                <strong>x kWh </strong>
               </div>
 
               <div className="flex justify-between">
@@ -305,7 +320,7 @@ export default function Dashboard() {
         </div>
       ) : (
         <div>
-          <div className="w-3/5 mx-auto absolute left-[50%] translate-x-[-50%] top-[55%]">
+          <div className="w-3/5 mx-auto absolute left-[50%] translate-x-[-50%] top-[57%]">
             <img src="/empty.svg" alt="" />
             <br />
             <h1 className="text-[1.5rem] font-bold w-full text-center">
