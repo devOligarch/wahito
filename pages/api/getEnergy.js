@@ -1,9 +1,10 @@
 import moment from "moment";
 import { MongoClient } from "mongodb";
+import { MONGO_LOCAL } from "@/utils/db";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    const client = new MongoClient(process.env.MONGO_LOCAL);
+    const client = new MongoClient(MONGO_LOCAL);
 
     try {
       await client.connect();

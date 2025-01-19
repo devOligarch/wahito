@@ -1,9 +1,10 @@
+import { MONGO_LOCAL } from "@/utils/db";
 import moment from "moment";
 import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    const client = new MongoClient(process.env.MONGO_LOCAL);
+    const client = new MongoClient(MONGO_LOCAL);
 
     let elements = 10;
 
