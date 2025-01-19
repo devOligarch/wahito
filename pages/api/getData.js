@@ -3,9 +3,7 @@ import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    const client = new MongoClient(
-      "mongodb+srv://devOligarch:!%40Kinuthia2024!@devworks.s8vt2mn.mongodb.net/?retryWrites=true&w=majority&appName=DevWorks"
-    );
+    const client = new MongoClient(process.env.MONGO_LOCAL);
 
     let elements = 10;
 
@@ -102,49 +100,16 @@ export default async function handler(req, res) {
         return Math.ceil(total / daysDifference);
       };
 
-      // Solar
-
-      const getPeakSolar = async () => {
-        const years = [2023, 2024];
-        const results = [];
-
-        const _records = await db.collection("ghis").find().toArray();
-
-        for (const year of years) {
-          const startDate = new Date(`${year}-01-01T00:00:00Z`);
-          const endDate = new Date(`${year + 1}-01-01T00:00:00Z`);
-
-          let records = _records?.filter(
-            (record) =>
-              new Date(record?.period_end) > startDate &&
-              new Date(record?.period_end) < endDate
-          );
-
-          const totalIrradiance = records.reduce((sum, record) => {
-            return sum + record.ghi * 0.25; // GHI * 15 minutes (0.25 hours)
-          }, 0);
-
-          // Calculate daily average irradiance (peak sun hours)
-          const peakHours = (totalIrradiance / (365 * 1000)).toFixed(1);
-
-          results.push({ year, peakHours });
-        }
-
-        return results;
-      };
-
       let chart = await getEnergyData();
       let averageEnergy = await getAverageEnergy();
       let totalEnergy = await getTotalEnergy();
       let peakEnergy = await getPeakEnergy();
-      let peakSolarHrs = await getPeakSolar();
 
       res.status(200).json({
         chart,
         averageEnergy,
         totalEnergy,
         peakEnergy,
-        peakSolarHrs,
       });
     } catch (error) {
       res.status(500).json({ message: "Something went wrong!" });

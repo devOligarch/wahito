@@ -16,7 +16,7 @@ import {
 import Image from "next/image";
 import myGif from "../public/solaronly.gif";
 import classes from "../styles/Tab.module.css";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { BarChart, LineChart } from "@mantine/charts";
 import { DatePickerInput } from "@mantine/dates";
 import { notifications } from "@mantine/notifications";
@@ -33,43 +33,80 @@ export default function Dashboard() {
     totalEnergy: null,
     averageEnergy: null,
     // solar
-    peakSolarHrs: [],
     averageSolarHrs: null,
+    peakSolarHrs: [],
   });
 
-  // Fills up chart with data on initial load
-  async function getEnergy() {
+  // Get initial data
+  const getInitialChart = async () => {
+    // Initial energy chart data
     try {
       const res = await fetch(`/api/getEnergy`, { method: "GET" });
       if (!res?.ok) {
         throw new Error("Network response was not ok");
       }
 
-      const data = await res.json();
-
-      setData({ ...data, chart: data });
+      const chartData = await res.json();
+      return chartData;
     } catch (error) {
       console.error("Error occured during fetch call", error);
+      return [];
     }
-  }
+  };
+
+  // Calculate solar data on load
+  const getPeakSolarHrs = useCallback(async () => {
+    const years = [2023, 2024];
+    let peakSolarHrs = [];
+
+    // Solar data
+    try {
+      const res = await fetch("/solar_irradiance_data.json"); // File path in public folder
+      const _records = await res.json();
+
+      for (const year of years) {
+        const startDate = new Date(`${year}-01-01T00:00:00Z`);
+        const endDate = new Date(`${year + 1}-01-01T00:00:00Z`);
+
+        let records = _records?.filter(
+          (record) =>
+            new Date(record?.period_end) > startDate &&
+            new Date(record?.period_end) < endDate
+        );
+
+        const totalIrradiance = records.reduce((sum, record) => {
+          return sum + record.ghi * 0.25; // GHI * 15 minutes (0.25 hours)
+        }, 0);
+
+        // Calculate daily average irradiance (peak sun hours)
+        const peakHours = (totalIrradiance / (365 * 1000)).toFixed(2);
+
+        peakSolarHrs.push({ year, peakHours });
+      }
+
+      return peakSolarHrs;
+    } catch (error) {
+      console.error("Something occured", error);
+      return [];
+    }
+  }, []);
 
   useEffect(() => {
     const fetchChartData = async () => {
       try {
-        await getEnergy();
+        setLoading(true);
+        const chart = await getInitialChart();
+        const peakSolarHrs = await getPeakSolarHrs();
+        console.log(chart, peakSolarHrs);
+
+        setData({ ...data, chart, peakSolarHrs });
+        setLoading(false);
       } catch (error) {
         console.log(error);
       }
     };
     fetchChartData();
   }, []);
-
-  // Calculate days of autonomy
-  const getDaysOfAutonomy = () => {
-    const timeDifference = Math.abs(dates[1] - dates[0]);
-    const daysDifference = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
-    return daysDifference;
-  };
 
   // Calculate for summaries and recommendations
   const calculate = async () => {
@@ -78,9 +115,8 @@ export default function Dashboard() {
         JSON.stringify(dates.map((d) => d.toISOString()))
       )}`;
 
-      setLoading(true);
-
       try {
+        setLoading(true);
         const res = await fetch(`/api/getData${queryString}`, {
           method: "GET",
         });
@@ -89,18 +125,45 @@ export default function Dashboard() {
           throw new Error("Network response was not ok");
         }
 
-        const data = await res.json();
+        const fetchedData = await res.json();
+        const { chart, averageEnergy, totalEnergy, peakEnergy } = fetchedData;
 
-        console.log(data);
-        setData(data);
+        const peakSolarHrs = await getPeakSolarHrs();
+
+        setData({
+          ...data,
+          chart,
+          averageEnergy,
+          totalEnergy,
+          peakEnergy,
+          peakSolarHrs,
+        });
+        setLoading(false);
+        return;
       } catch (error) {
         console.error("Failed to calculate", error);
+        setLoading(false);
+        return;
       }
-
-      setLoading(false);
     }
-    return;
   };
+
+  // Clear energy data on date change
+  const handleOnDateChange = useCallback(async (_dates) => {
+    if ((_dates[0] && _dates[1]) || (_dates[0] && !_dates[1])) {
+      setDates(_dates);
+    } else {
+      setDates([null, null]);
+
+      setData({
+        peakEnergy: null,
+        totalEnergy: null,
+        averageEnergy: null,
+      });
+    }
+  }, []);
+
+  let inverterSizing = (data?.peakEnergy?.energy_wh / 0.25) * 1.25;
 
   return (
     <div>
@@ -108,13 +171,12 @@ export default function Dashboard() {
       <div className="bg-slate-200 p-8  sticky top-0 z-50 space-y-2 ">
         <div className="space-y-3 flex justify-between items-center">
           <DatePickerInput
-            w={"90%"}
             clearable
+            w={"90%"}
             type="range"
             placeholder="From - To"
             value={dates}
-            onClear
-            onChange={setDates}
+            onChange={handleOnDateChange}
           />
 
           {loading && (
@@ -137,11 +199,6 @@ export default function Dashboard() {
       {/* Main content */}
 
       <div className="p-4 space-y-3">
-        <p>
-          Days of autonomy :{" "}
-          <strong>{dates[0] && dates[1] ? getDaysOfAutonomy() : 0}</strong>
-        </p>
-
         <Divider labelPosition="right" label="Energy consumption" />
 
         <LineChart
@@ -158,7 +215,7 @@ export default function Dashboard() {
             labelPosition="right"
             label={`${moment(dates[0]).format("Do MMM YY")} to ${moment(
               dates[1]
-            ).format("Do MMM YY")}`}
+            ).format("Do MMM YY")} energy consumption`}
           />
 
           <Card shadow="sm" padding="lg" radius="md" withBorder>
@@ -167,19 +224,25 @@ export default function Dashboard() {
                 <p className="text-slate-600 text-[0.8rem]">
                   Total energy consumption
                 </p>
-                <strong>{data?.totalEnergy} Wh </strong>
+                <strong>{data?.totalEnergy.toLocaleString("en-US")} Wh </strong>
               </div>
 
               <div className="flex justify-between border-b">
                 <p className="text-slate-600 text-[0.8rem]">
                   Average daily energy consumption
                 </p>
-                <strong>{data?.averageEnergy} Wh </strong>
+                <strong>
+                  {data?.averageEnergy.toLocaleString("en-US")} Wh{" "}
+                </strong>
               </div>
 
               <div className="flex justify-between">
-                <p className="text-slate-600 text-[0.8rem]">Peak load</p>
-                <strong>{data?.peakEnergy?.energy_wh} Wh</strong>
+                <p className="text-slate-600 text-[0.8rem]">
+                  Peak ({data?.peakEnergy?.timestamp})
+                </p>
+                <strong>
+                  {data?.peakEnergy?.energy_wh.toLocaleString("en-US")} Wh
+                </strong>
               </div>
             </div>
           </Card>
@@ -235,7 +298,7 @@ export default function Dashboard() {
                 <p className="text-slate-600 text-[0.8rem]">
                   Inverter recommendation
                 </p>
-                <strong>30 kW </strong>
+                <strong>{inverterSizing} W </strong>
               </div>
             </div>
           </Card>

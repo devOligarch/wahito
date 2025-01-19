@@ -1,0 +1,11010 @@
+[{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f84"
+  },
+  "voltage": 10,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f86"
+  },
+  "voltage": 1,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-01T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8e"
+  },
+  "voltage": 4,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-01T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f92"
+  },
+  "voltage": 18,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-01T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f93"
+  },
+  "voltage": 9,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f98"
+  },
+  "voltage": 20,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9a"
+  },
+  "voltage": 17,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-01T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9b"
+  },
+  "voltage": 18,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-01T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9f"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa3"
+  },
+  "voltage": 3,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa6"
+  },
+  "voltage": 12,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-01T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb0"
+  },
+  "voltage": 10,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb1"
+  },
+  "voltage": 16,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb2"
+  },
+  "voltage": 5,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb4"
+  },
+  "voltage": 17,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb8"
+  },
+  "voltage": 14,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-01T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fbc"
+  },
+  "voltage": 5,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-01T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc9"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fcc"
+  },
+  "voltage": 6,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd3"
+  },
+  "voltage": 2,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd8"
+  },
+  "voltage": 15,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-01T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fdd"
+  },
+  "voltage": 14,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe0"
+  },
+  "voltage": 17,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-01T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe4"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe9"
+  },
+  "voltage": 5,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443feb"
+  },
+  "voltage": 11,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fec"
+  },
+  "voltage": 14,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff2"
+  },
+  "voltage": 11,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff4"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff6"
+  },
+  "voltage": 1,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff7"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-02T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff9"
+  },
+  "voltage": 19,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-02T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ffa"
+  },
+  "voltage": 5,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ffb"
+  },
+  "voltage": 3,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ffe"
+  },
+  "voltage": 5,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-02T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444001"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-02T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444004"
+  },
+  "voltage": 3,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-02T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444005"
+  },
+  "voltage": 10,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444006"
+  },
+  "voltage": 11,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444007"
+  },
+  "voltage": 2,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400b"
+  },
+  "voltage": 4,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-02T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400d"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400e"
+  },
+  "voltage": 14,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-02T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444011"
+  },
+  "voltage": 15,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-02T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444013"
+  },
+  "voltage": 16,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444014"
+  },
+  "voltage": 7,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-02T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401b"
+  },
+  "voltage": 7,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-02T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444022"
+  },
+  "voltage": 2,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402f"
+  },
+  "voltage": 7,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444033"
+  },
+  "voltage": 18,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403e"
+  },
+  "voltage": 12,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444042"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444046"
+  },
+  "voltage": 10,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444047"
+  },
+  "voltage": 6,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-03T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444049"
+  },
+  "voltage": 18,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-03T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404b"
+  },
+  "voltage": 4,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-03T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444052"
+  },
+  "voltage": 19,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444055"
+  },
+  "voltage": 20,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444056"
+  },
+  "voltage": 16,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-03T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444057"
+  },
+  "voltage": 14,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405c"
+  },
+  "voltage": 17,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444062"
+  },
+  "voltage": 5,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-03T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444069"
+  },
+  "voltage": 15,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406a"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-03T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406e"
+  },
+  "voltage": 18,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-03T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444070"
+  },
+  "voltage": 14,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444072"
+  },
+  "voltage": 7,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-03T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444079"
+  },
+  "voltage": 19,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-03T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444084"
+  },
+  "voltage": 13,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444088"
+  },
+  "voltage": 2,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408b"
+  },
+  "voltage": 13,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408c"
+  },
+  "voltage": 3,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-03T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408d"
+  },
+  "voltage": 2,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-03T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444092"
+  },
+  "voltage": 4,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-03T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444097"
+  },
+  "voltage": 20,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444098"
+  },
+  "voltage": 4,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-03T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444099"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-03T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409a"
+  },
+  "voltage": 3,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409d"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409e"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-03T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a2"
+  },
+  "voltage": 16,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a7"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-04T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a8"
+  },
+  "voltage": 1,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-04T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440af"
+  },
+  "voltage": 12,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-04T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b2"
+  },
+  "voltage": 8,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b5"
+  },
+  "voltage": 15,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b6"
+  },
+  "voltage": 1,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-04T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ba"
+  },
+  "voltage": 12,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-04T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c3"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c6"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c7"
+  },
+  "voltage": 20,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-04T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440cb"
+  },
+  "voltage": 4,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-04T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ce"
+  },
+  "voltage": 4,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-04T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d3"
+  },
+  "voltage": 18,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-04T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d5"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d8"
+  },
+  "voltage": 8,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-04T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e0"
+  },
+  "voltage": 17,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e3"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-04T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e5"
+  },
+  "voltage": 3,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-04T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e7"
+  },
+  "voltage": 4,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ec"
+  },
+  "voltage": 17,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ed"
+  },
+  "voltage": 6,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f1"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f8"
+  },
+  "voltage": 12,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f9"
+  },
+  "voltage": 15,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-04T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440fb"
+  },
+  "voltage": 5,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-04T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444102"
+  },
+  "voltage": 16,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444109"
+  },
+  "voltage": 11,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-05T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410b"
+  },
+  "voltage": 16,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410e"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-05T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444128"
+  },
+  "voltage": 3,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412b"
+  },
+  "voltage": 12,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-05T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412c"
+  },
+  "voltage": 15,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412d"
+  },
+  "voltage": 11,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412e"
+  },
+  "voltage": 13,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-05T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412f"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-05T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444131"
+  },
+  "voltage": 18,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444132"
+  },
+  "voltage": 6,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413a"
+  },
+  "voltage": 7,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413b"
+  },
+  "voltage": 6,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413e"
+  },
+  "voltage": 11,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-05T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444142"
+  },
+  "voltage": 16,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414a"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414d"
+  },
+  "voltage": 2,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-05T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444153"
+  },
+  "voltage": 11,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-05T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444157"
+  },
+  "voltage": 6,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-05T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415e"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-05T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444163"
+  },
+  "voltage": 1,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444166"
+  },
+  "voltage": 3,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-06T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416a"
+  },
+  "voltage": 9,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-06T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416b"
+  },
+  "voltage": 19,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444173"
+  },
+  "voltage": 19,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444176"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-06T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f85"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f89"
+  },
+  "voltage": 2,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-01T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8b"
+  },
+  "voltage": 1,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8d"
+  },
+  "voltage": 1,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f95"
+  },
+  "voltage": 20,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f96"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-01T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9c"
+  },
+  "voltage": 16,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443faa"
+  },
+  "voltage": 10,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-01T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fac"
+  },
+  "voltage": 13,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-01T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb3"
+  },
+  "voltage": 19,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb5"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb9"
+  },
+  "voltage": 17,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc0"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc1"
+  },
+  "voltage": 3,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc2"
+  },
+  "voltage": 12,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc5"
+  },
+  "voltage": 10,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc6"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc8"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd4"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd5"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd9"
+  },
+  "voltage": 17,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fdc"
+  },
+  "voltage": 12,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fdf"
+  },
+  "voltage": 18,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-01T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe5"
+  },
+  "voltage": 3,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff0"
+  },
+  "voltage": 9,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-02T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff3"
+  },
+  "voltage": 7,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444002"
+  },
+  "voltage": 11,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400f"
+  },
+  "voltage": 10,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444015"
+  },
+  "voltage": 20,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401a"
+  },
+  "voltage": 3,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444030"
+  },
+  "voltage": 4,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444031"
+  },
+  "voltage": 20,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444038"
+  },
+  "voltage": 8,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-02T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403d"
+  },
+  "voltage": 20,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444048"
+  },
+  "voltage": 1,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404a"
+  },
+  "voltage": 10,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404c"
+  },
+  "voltage": 9,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404d"
+  },
+  "voltage": 16,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-03T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404e"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-03T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44404f"
+  },
+  "voltage": 20,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444053"
+  },
+  "voltage": 1,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-03T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444054"
+  },
+  "voltage": 5,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444059"
+  },
+  "voltage": 17,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444060"
+  },
+  "voltage": 1,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444064"
+  },
+  "voltage": 2,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406b"
+  },
+  "voltage": 10,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444078"
+  },
+  "voltage": 7,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444080"
+  },
+  "voltage": 20,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444081"
+  },
+  "voltage": 2,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444085"
+  },
+  "voltage": 18,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-03T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408a"
+  },
+  "voltage": 7,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408e"
+  },
+  "voltage": 13,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-03T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444090"
+  },
+  "voltage": 2,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444091"
+  },
+  "voltage": 10,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444096"
+  },
+  "voltage": 3,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409c"
+  },
+  "voltage": 11,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-03T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a4"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a6"
+  },
+  "voltage": 6,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440aa"
+  },
+  "voltage": 14,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ae"
+  },
+  "voltage": 6,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-04T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b3"
+  },
+  "voltage": 12,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b4"
+  },
+  "voltage": 6,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b8"
+  },
+  "voltage": 10,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-04T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c1"
+  },
+  "voltage": 7,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-04T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c4"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-04T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440cd"
+  },
+  "voltage": 18,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440cf"
+  },
+  "voltage": 19,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-04T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d0"
+  },
+  "voltage": 17,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-04T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d9"
+  },
+  "voltage": 9,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440da"
+  },
+  "voltage": 8,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-04T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440dd"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-04T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440de"
+  },
+  "voltage": 9,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e6"
+  },
+  "voltage": 5,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e9"
+  },
+  "voltage": 17,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ea"
+  },
+  "voltage": 5,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f0"
+  },
+  "voltage": 18,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-04T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f3"
+  },
+  "voltage": 19,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-04T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f6"
+  },
+  "voltage": 19,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-04T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440fa"
+  },
+  "voltage": 17,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-04T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444101"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444103"
+  },
+  "voltage": 5,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444105"
+  },
+  "voltage": 20,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-05T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444106"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-05T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444107"
+  },
+  "voltage": 19,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-05T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444111"
+  },
+  "voltage": 3,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444113"
+  },
+  "voltage": 4,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444114"
+  },
+  "voltage": 4,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-05T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411b"
+  },
+  "voltage": 18,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-05T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411c"
+  },
+  "voltage": 14,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-05T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411e"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-05T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411f"
+  },
+  "voltage": 6,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444123"
+  },
+  "voltage": 11,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-05T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444124"
+  },
+  "voltage": 1,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-05T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444126"
+  },
+  "voltage": 5,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-05T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444134"
+  },
+  "voltage": 2,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444135"
+  },
+  "voltage": 5,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444146"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-05T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444147"
+  },
+  "voltage": 11,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-05T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414e"
+  },
+  "voltage": 15,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-05T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414f"
+  },
+  "voltage": 11,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-05T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444151"
+  },
+  "voltage": 12,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-05T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444152"
+  },
+  "voltage": 17,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444154"
+  },
+  "voltage": 11,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444160"
+  },
+  "voltage": 13,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-05T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444165"
+  },
+  "voltage": 17,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-06T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444167"
+  },
+  "voltage": 4,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-06T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416c"
+  },
+  "voltage": 10,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416f"
+  },
+  "voltage": 20,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444170"
+  },
+  "voltage": 4,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-06T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444175"
+  },
+  "voltage": 18,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8a"
+  },
+  "voltage": 6,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8c"
+  },
+  "voltage": 4,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-01T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f90"
+  },
+  "voltage": 18,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f94"
+  },
+  "voltage": 19,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f99"
+  },
+  "voltage": 19,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9e"
+  },
+  "voltage": 8,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa1"
+  },
+  "voltage": 7,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa4"
+  },
+  "voltage": 1,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-01T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa5"
+  },
+  "voltage": 20,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fab"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fad"
+  },
+  "voltage": 1,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443faf"
+  },
+  "voltage": 17,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fbb"
+  },
+  "voltage": 7,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fbe"
+  },
+  "voltage": 15,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-01T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc7"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fcb"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fcd"
+  },
+  "voltage": 11,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-01T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fce"
+  },
+  "voltage": 1,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd0"
+  },
+  "voltage": 4,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-01T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd1"
+  },
+  "voltage": 20,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-01T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd2"
+  },
+  "voltage": 17,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-01T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd6"
+  },
+  "voltage": 4,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fda"
+  },
+  "voltage": 7,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fde"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe1"
+  },
+  "voltage": 15,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe2"
+  },
+  "voltage": 3,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe3"
+  },
+  "voltage": 14,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe8"
+  },
+  "voltage": 4,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fea"
+  },
+  "voltage": 16,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff1"
+  },
+  "voltage": 2,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444000"
+  },
+  "voltage": 11,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444008"
+  },
+  "voltage": 20,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444009"
+  },
+  "voltage": 9,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444016"
+  },
+  "voltage": 5,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401c"
+  },
+  "voltage": 1,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401d"
+  },
+  "voltage": 9,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401e"
+  },
+  "voltage": 15,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-02T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44401f"
+  },
+  "voltage": 5,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-02T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444023"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-02T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444026"
+  },
+  "voltage": 5,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-02T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444027"
+  },
+  "voltage": 3,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444029"
+  },
+  "voltage": 11,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-02T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402d"
+  },
+  "voltage": 9,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444034"
+  },
+  "voltage": 15,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-02T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444039"
+  },
+  "voltage": 1,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403c"
+  },
+  "voltage": 13,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-02T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444041"
+  },
+  "voltage": 19,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444044"
+  },
+  "voltage": 13,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-03T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444045"
+  },
+  "voltage": 8,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-03T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444051"
+  },
+  "voltage": 12,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444058"
+  },
+  "voltage": 12,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405a"
+  },
+  "voltage": 16,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-03T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405d"
+  },
+  "voltage": 8,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405e"
+  },
+  "voltage": 13,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-03T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444061"
+  },
+  "voltage": 4,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-03T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444067"
+  },
+  "voltage": 8,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444068"
+  },
+  "voltage": 6,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-03T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406f"
+  },
+  "voltage": 7,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444073"
+  },
+  "voltage": 18,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-03T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444075"
+  },
+  "voltage": 5,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-03T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444076"
+  },
+  "voltage": 8,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-03T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444077"
+  },
+  "voltage": 15,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-03T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407b"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-03T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407f"
+  },
+  "voltage": 1,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444083"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-03T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444086"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-03T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44408f"
+  },
+  "voltage": 19,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-03T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444094"
+  },
+  "voltage": 17,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-03T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444095"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409b"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44409f"
+  },
+  "voltage": 8,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a0"
+  },
+  "voltage": 11,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a3"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a5"
+  },
+  "voltage": 13,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-04T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ab"
+  },
+  "voltage": 13,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-04T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ac"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b0"
+  },
+  "voltage": 17,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-04T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b9"
+  },
+  "voltage": 11,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440bb"
+  },
+  "voltage": 9,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-04T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440bc"
+  },
+  "voltage": 14,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-04T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440bf"
+  },
+  "voltage": 1,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c0"
+  },
+  "voltage": 6,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-04T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c2"
+  },
+  "voltage": 11,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-04T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440cc"
+  },
+  "voltage": 8,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-04T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d2"
+  },
+  "voltage": 17,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d6"
+  },
+  "voltage": 2,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-04T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440db"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-04T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e1"
+  },
+  "voltage": 4,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-04T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e2"
+  },
+  "voltage": 9,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e4"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-04T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f2"
+  },
+  "voltage": 14,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-04T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440fc"
+  },
+  "voltage": 9,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-04T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440fe"
+  },
+  "voltage": 17,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ff"
+  },
+  "voltage": 16,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-04T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444108"
+  },
+  "voltage": 18,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410d"
+  },
+  "voltage": 12,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444112"
+  },
+  "voltage": 6,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444115"
+  },
+  "voltage": 13,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-05T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411a"
+  },
+  "voltage": 20,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444121"
+  },
+  "voltage": 4,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444125"
+  },
+  "voltage": 10,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444127"
+  },
+  "voltage": 1,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-05T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444130"
+  },
+  "voltage": 14,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-05T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444133"
+  },
+  "voltage": 2,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444138"
+  },
+  "voltage": 1,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444139"
+  },
+  "voltage": 14,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-05T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413d"
+  },
+  "voltage": 18,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444143"
+  },
+  "voltage": 17,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444144"
+  },
+  "voltage": 4,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-05T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444148"
+  },
+  "voltage": 12,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-05T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444149"
+  },
+  "voltage": 1,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-05T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444150"
+  },
+  "voltage": 12,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444155"
+  },
+  "voltage": 16,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-05T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415b"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-05T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415c"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415d"
+  },
+  "voltage": 2,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-05T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444162"
+  },
+  "voltage": 10,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444168"
+  },
+  "voltage": 19,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-06T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444169"
+  },
+  "voltage": 20,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-06T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416d"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444171"
+  },
+  "voltage": 7,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f83"
+  },
+  "voltage": 15,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f87"
+  },
+  "voltage": 11,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-01T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f88"
+  },
+  "voltage": 20,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f8f"
+  },
+  "voltage": 19,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f91"
+  },
+  "voltage": 4,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f97"
+  },
+  "voltage": 18,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-01T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443f9d"
+  },
+  "voltage": 7,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-01T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa0"
+  },
+  "voltage": 10,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-01T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa2"
+  },
+  "voltage": 19,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa7"
+  },
+  "voltage": 2,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-01T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa8"
+  },
+  "voltage": 3,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-01T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fa9"
+  },
+  "voltage": 11,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-01T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fae"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb6"
+  },
+  "voltage": 5,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fb7"
+  },
+  "voltage": 11,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fba"
+  },
+  "voltage": 16,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-01T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fbd"
+  },
+  "voltage": 14,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fbf"
+  },
+  "voltage": 18,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc3"
+  },
+  "voltage": 10,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fc4"
+  },
+  "voltage": 19,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fca"
+  },
+  "voltage": 19,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fcf"
+  },
+  "voltage": 20,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-01T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fd7"
+  },
+  "voltage": 12,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-01T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fdb"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-01T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe6"
+  },
+  "voltage": 5,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fe7"
+  },
+  "voltage": 14,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-02T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fed"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-02T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fee"
+  },
+  "voltage": 16,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-02T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fef"
+  },
+  "voltage": 16,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff5"
+  },
+  "voltage": 19,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ff8"
+  },
+  "voltage": 2,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-02T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ffc"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-02T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443ffd"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b443fff"
+  },
+  "voltage": 20,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-02T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444003"
+  },
+  "voltage": 7,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-02T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400a"
+  },
+  "voltage": 18,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44400c"
+  },
+  "voltage": 20,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444010"
+  },
+  "voltage": 9,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-02T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444012"
+  },
+  "voltage": 17,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444017"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-02T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444018"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-02T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444019"
+  },
+  "voltage": 14,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444020"
+  },
+  "voltage": 18,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444021"
+  },
+  "voltage": 2,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444024"
+  },
+  "voltage": 11,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444025"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444028"
+  },
+  "voltage": 2,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402a"
+  },
+  "voltage": 3,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-02T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402b"
+  },
+  "voltage": 18,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-02T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402c"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44402e"
+  },
+  "voltage": 6,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444032"
+  },
+  "voltage": 18,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-02T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444035"
+  },
+  "voltage": 14,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-02T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444036"
+  },
+  "voltage": 1,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-02T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444037"
+  },
+  "voltage": 20,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-02T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403a"
+  },
+  "voltage": 6,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-02T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403b"
+  },
+  "voltage": 16,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-02T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44403f"
+  },
+  "voltage": 1,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-02T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444040"
+  },
+  "voltage": 18,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-02T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444043"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444050"
+  },
+  "voltage": 17,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-03T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405b"
+  },
+  "voltage": 3,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44405f"
+  },
+  "voltage": 17,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444063"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444065"
+  },
+  "voltage": 5,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444066"
+  },
+  "voltage": 20,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406c"
+  },
+  "voltage": 16,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-03T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44406d"
+  },
+  "voltage": 14,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444071"
+  },
+  "voltage": 16,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-03T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444074"
+  },
+  "voltage": 11,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-03T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407a"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407c"
+  },
+  "voltage": 4,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-03T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407d"
+  },
+  "voltage": 19,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44407e"
+  },
+  "voltage": 7,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444082"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-03T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444087"
+  },
+  "voltage": 4,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-03T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444089"
+  },
+  "voltage": 12,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-03T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444093"
+  },
+  "voltage": 17,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-03T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a1"
+  },
+  "voltage": 15,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-03T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440a9"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-04T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ad"
+  },
+  "voltage": 15,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b1"
+  },
+  "voltage": 19,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-04T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440b7"
+  },
+  "voltage": 10,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-04T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440bd"
+  },
+  "voltage": 1,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-04T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440be"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c5"
+  },
+  "voltage": 16,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-04T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c8"
+  },
+  "voltage": 13,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440c9"
+  },
+  "voltage": 11,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-04T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ca"
+  },
+  "voltage": 11,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-04T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d1"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-04T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d4"
+  },
+  "voltage": 13,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-04T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440d7"
+  },
+  "voltage": 3,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-04T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440dc"
+  },
+  "voltage": 8,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-04T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440df"
+  },
+  "voltage": 3,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440e8"
+  },
+  "voltage": 15,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-04T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440eb"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-04T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ee"
+  },
+  "voltage": 13,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-04T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440ef"
+  },
+  "voltage": 12,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f4"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-04T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f5"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-04T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440f7"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-04T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4440fd"
+  },
+  "voltage": 13,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-04T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444100"
+  },
+  "voltage": 9,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-04T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444104"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-05T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410a"
+  },
+  "voltage": 14,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410c"
+  },
+  "voltage": 1,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-05T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44410f"
+  },
+  "voltage": 14,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444110"
+  },
+  "voltage": 16,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444116"
+  },
+  "voltage": 15,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-05T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444117"
+  },
+  "voltage": 14,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444118"
+  },
+  "voltage": 8,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444119"
+  },
+  "voltage": 16,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-05T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44411d"
+  },
+  "voltage": 14,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-05T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444120"
+  },
+  "voltage": 11,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444122"
+  },
+  "voltage": 7,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444129"
+  },
+  "voltage": 3,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44412a"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-05T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444136"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444137"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-05T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413c"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-05T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44413f"
+  },
+  "voltage": 14,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-05T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444140"
+  },
+  "voltage": 13,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444141"
+  },
+  "voltage": 6,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-05T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444145"
+  },
+  "voltage": 12,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-05T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414b"
+  },
+  "voltage": 6,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-05T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44414c"
+  },
+  "voltage": 8,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-05T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444156"
+  },
+  "voltage": 4,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-05T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444158"
+  },
+  "voltage": 4,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-05T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444159"
+  },
+  "voltage": 4,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415a"
+  },
+  "voltage": 8,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-05T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44415f"
+  },
+  "voltage": 10,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-05T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444161"
+  },
+  "voltage": 5,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-05T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444164"
+  },
+  "voltage": 9,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-06T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44416e"
+  },
+  "voltage": 9,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444172"
+  },
+  "voltage": 8,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-06T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444174"
+  },
+  "voltage": 19,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444177"
+  },
+  "voltage": 16,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-06T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417c"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417e"
+  },
+  "voltage": 3,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444180"
+  },
+  "voltage": 11,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-06T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444187"
+  },
+  "voltage": 9,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444188"
+  },
+  "voltage": 9,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444189"
+  },
+  "voltage": 15,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418d"
+  },
+  "voltage": 12,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-06T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444196"
+  },
+  "voltage": 12,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-06T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444199"
+  },
+  "voltage": 12,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419a"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a3"
+  },
+  "voltage": 15,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a5"
+  },
+  "voltage": 1,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-06T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a8"
+  },
+  "voltage": 14,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-06T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a9"
+  },
+  "voltage": 13,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-06T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b1"
+  },
+  "voltage": 20,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-06T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b4"
+  },
+  "voltage": 19,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-06T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b6"
+  },
+  "voltage": 15,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-06T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b9"
+  },
+  "voltage": 8,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-06T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ba"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-06T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441be"
+  },
+  "voltage": 19,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-06T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c0"
+  },
+  "voltage": 15,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-06T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c4"
+  },
+  "voltage": 9,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c8"
+  },
+  "voltage": 3,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-07T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441cb"
+  },
+  "voltage": 7,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-07T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d0"
+  },
+  "voltage": 2,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d2"
+  },
+  "voltage": 18,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-07T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d3"
+  },
+  "voltage": 13,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-07T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d6"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-07T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441de"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e0"
+  },
+  "voltage": 1,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-07T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e3"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-07T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e4"
+  },
+  "voltage": 7,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e5"
+  },
+  "voltage": 6,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e6"
+  },
+  "voltage": 4,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-07T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e8"
+  },
+  "voltage": 9,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-07T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e9"
+  },
+  "voltage": 7,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-07T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f5"
+  },
+  "voltage": 14,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-07T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f7"
+  },
+  "voltage": 18,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-07T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441fa"
+  },
+  "voltage": 15,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-07T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441fc"
+  },
+  "voltage": 9,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444202"
+  },
+  "voltage": 5,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444214"
+  },
+  "voltage": 2,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-07T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444218"
+  },
+  "voltage": 13,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444219"
+  },
+  "voltage": 7,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421a"
+  },
+  "voltage": 1,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-07T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421d"
+  },
+  "voltage": 19,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-07T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444227"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-08T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422d"
+  },
+  "voltage": 11,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-08T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444232"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-08T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444234"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423c"
+  },
+  "voltage": 3,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423d"
+  },
+  "voltage": 1,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-08T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444242"
+  },
+  "voltage": 12,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444245"
+  },
+  "voltage": 13,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-08T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424a"
+  },
+  "voltage": 7,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424b"
+  },
+  "voltage": 12,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-08T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424d"
+  },
+  "voltage": 10,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-08T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424e"
+  },
+  "voltage": 3,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424f"
+  },
+  "voltage": 1,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444254"
+  },
+  "voltage": 4,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444258"
+  },
+  "voltage": 18,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425a"
+  },
+  "voltage": 13,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-08T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425e"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444182"
+  },
+  "voltage": 3,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444184"
+  },
+  "voltage": 13,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-06T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418f"
+  },
+  "voltage": 15,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a6"
+  },
+  "voltage": 20,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ae"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441af"
+  },
+  "voltage": 13,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b2"
+  },
+  "voltage": 1,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-06T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b3"
+  },
+  "voltage": 5,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-06T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441bd"
+  },
+  "voltage": 5,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-06T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c1"
+  },
+  "voltage": 20,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c2"
+  },
+  "voltage": 18,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-06T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c3"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c5"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441cc"
+  },
+  "voltage": 11,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-07T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441cf"
+  },
+  "voltage": 19,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d1"
+  },
+  "voltage": 4,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-07T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d8"
+  },
+  "voltage": 1,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-07T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441da"
+  },
+  "voltage": 10,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-07T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e1"
+  },
+  "voltage": 4,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-07T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e2"
+  },
+  "voltage": 16,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ea"
+  },
+  "voltage": 14,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-07T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ec"
+  },
+  "voltage": 3,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ee"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f0"
+  },
+  "voltage": 15,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f3"
+  },
+  "voltage": 9,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-07T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f4"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-07T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441fb"
+  },
+  "voltage": 12,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441fe"
+  },
+  "voltage": 14,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-07T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ff"
+  },
+  "voltage": 19,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444205"
+  },
+  "voltage": 14,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420a"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420b"
+  },
+  "voltage": 14,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-07T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420d"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-07T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420e"
+  },
+  "voltage": 13,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444210"
+  },
+  "voltage": 17,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-07T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444212"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-07T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444213"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444215"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444216"
+  },
+  "voltage": 9,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-07T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421b"
+  },
+  "voltage": 20,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421c"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421f"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-07T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444220"
+  },
+  "voltage": 7,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-07T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444221"
+  },
+  "voltage": 7,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-07T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444222"
+  },
+  "voltage": 20,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-07T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444223"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444225"
+  },
+  "voltage": 14,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-08T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422c"
+  },
+  "voltage": 12,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-08T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444235"
+  },
+  "voltage": 12,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-08T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444237"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423e"
+  },
+  "voltage": 13,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444240"
+  },
+  "voltage": 13,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444243"
+  },
+  "voltage": 14,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-08T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444253"
+  },
+  "voltage": 7,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444267"
+  },
+  "voltage": 2,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-08T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444269"
+  },
+  "voltage": 2,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-08T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426e"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426f"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444270"
+  },
+  "voltage": 16,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-08T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444275"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-08T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427d"
+  },
+  "voltage": 4,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-08T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444282"
+  },
+  "voltage": 17,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-08T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444285"
+  },
+  "voltage": 7,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444288"
+  },
+  "voltage": 11,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444262"
+  },
+  "voltage": 17,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-08T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444265"
+  },
+  "voltage": 16,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444266"
+  },
+  "voltage": 11,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444273"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444274"
+  },
+  "voltage": 4,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-08T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444277"
+  },
+  "voltage": 12,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444279"
+  },
+  "voltage": 18,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444280"
+  },
+  "voltage": 8,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-08T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444284"
+  },
+  "voltage": 9,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444287"
+  },
+  "voltage": 6,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444289"
+  },
+  "voltage": 7,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-09T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428c"
+  },
+  "voltage": 19,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-09T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428d"
+  },
+  "voltage": 9,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-09T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428f"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444292"
+  },
+  "voltage": 15,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-09T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444298"
+  },
+  "voltage": 4,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a0"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-09T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a4"
+  },
+  "voltage": 19,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a8"
+  },
+  "voltage": 11,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-09T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ac"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-09T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ad"
+  },
+  "voltage": 4,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-09T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b2"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b3"
+  },
+  "voltage": 8,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ba"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-09T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442bb"
+  },
+  "voltage": 16,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c6"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ca"
+  },
+  "voltage": 13,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ce"
+  },
+  "voltage": 4,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-09T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d0"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d5"
+  },
+  "voltage": 9,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-09T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d7"
+  },
+  "voltage": 14,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d8"
+  },
+  "voltage": 19,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442da"
+  },
+  "voltage": 12,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442df"
+  },
+  "voltage": 14,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e7"
+  },
+  "voltage": 10,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-10T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ea"
+  },
+  "voltage": 12,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442eb"
+  },
+  "voltage": 3,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-10T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ed"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-10T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f6"
+  },
+  "voltage": 4,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-10T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f7"
+  },
+  "voltage": 17,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442fb"
+  },
+  "voltage": 7,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-10T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444308"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-10T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444309"
+  },
+  "voltage": 9,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444313"
+  },
+  "voltage": 10,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-10T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444318"
+  },
+  "voltage": 10,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431d"
+  },
+  "voltage": 16,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-10T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444320"
+  },
+  "voltage": 6,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444321"
+  },
+  "voltage": 13,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444322"
+  },
+  "voltage": 4,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444325"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-10T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444326"
+  },
+  "voltage": 11,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-10T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432c"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444334"
+  },
+  "voltage": 1,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433a"
+  },
+  "voltage": 13,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-10T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433c"
+  },
+  "voltage": 18,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-10T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433e"
+  },
+  "voltage": 6,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-10T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433f"
+  },
+  "voltage": 5,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-10T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444340"
+  },
+  "voltage": 14,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-10T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444341"
+  },
+  "voltage": 15,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-10T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444342"
+  },
+  "voltage": 3,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444345"
+  },
+  "voltage": 1,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434a"
+  },
+  "voltage": 2,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-11T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434c"
+  },
+  "voltage": 2,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-11T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444350"
+  },
+  "voltage": 11,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-11T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444360"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-11T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444362"
+  },
+  "voltage": 9,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-11T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444364"
+  },
+  "voltage": 8,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-11T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444366"
+  },
+  "voltage": 17,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-11T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444368"
+  },
+  "voltage": 6,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-11T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444291"
+  },
+  "voltage": 3,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444294"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-09T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444297"
+  },
+  "voltage": 17,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429b"
+  },
+  "voltage": 4,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a5"
+  },
+  "voltage": 14,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-09T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a6"
+  },
+  "voltage": 10,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-09T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a9"
+  },
+  "voltage": 2,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442af"
+  },
+  "voltage": 6,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-09T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b1"
+  },
+  "voltage": 19,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-09T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b8"
+  },
+  "voltage": 19,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-09T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b9"
+  },
+  "voltage": 8,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-09T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c0"
+  },
+  "voltage": 12,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-09T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c3"
+  },
+  "voltage": 1,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c7"
+  },
+  "voltage": 7,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442cc"
+  },
+  "voltage": 11,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442cd"
+  },
+  "voltage": 11,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-09T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d1"
+  },
+  "voltage": 6,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-09T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d4"
+  },
+  "voltage": 4,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d6"
+  },
+  "voltage": 2,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-09T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442dc"
+  },
+  "voltage": 16,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442dd"
+  },
+  "voltage": 18,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-09T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e0"
+  },
+  "voltage": 8,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-09T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e1"
+  },
+  "voltage": 8,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e5"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e8"
+  },
+  "voltage": 10,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e9"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ec"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f0"
+  },
+  "voltage": 5,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f5"
+  },
+  "voltage": 20,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-10T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f8"
+  },
+  "voltage": 13,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-10T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f9"
+  },
+  "voltage": 11,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-10T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444300"
+  },
+  "voltage": 14,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-10T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444304"
+  },
+  "voltage": 10,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444307"
+  },
+  "voltage": 10,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-10T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431c"
+  },
+  "voltage": 13,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-10T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432a"
+  },
+  "voltage": 19,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-10T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432b"
+  },
+  "voltage": 4,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-10T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444332"
+  },
+  "voltage": 8,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-10T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444333"
+  },
+  "voltage": 9,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-10T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444339"
+  },
+  "voltage": 5,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-10T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444351"
+  },
+  "voltage": 12,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-11T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444352"
+  },
+  "voltage": 7,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-11T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444353"
+  },
+  "voltage": 17,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-11T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444354"
+  },
+  "voltage": 8,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-11T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444355"
+  },
+  "voltage": 6,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-11T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444356"
+  },
+  "voltage": 14,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-11T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444358"
+  },
+  "voltage": 14,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-11T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435a"
+  },
+  "voltage": 3,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-11T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435e"
+  },
+  "voltage": 7,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-11T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444369"
+  },
+  "voltage": 3,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-11T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444179"
+  },
+  "voltage": 9,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417a"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-06T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417b"
+  },
+  "voltage": 10,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417d"
+  },
+  "voltage": 19,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-06T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444185"
+  },
+  "voltage": 10,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-06T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444186"
+  },
+  "voltage": 2,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418b"
+  },
+  "voltage": 11,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444190"
+  },
+  "voltage": 5,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444191"
+  },
+  "voltage": 13,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444192"
+  },
+  "voltage": 5,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-06T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444193"
+  },
+  "voltage": 3,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444194"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-06T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444195"
+  },
+  "voltage": 14,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444197"
+  },
+  "voltage": 7,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444198"
+  },
+  "voltage": 2,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-06T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419b"
+  },
+  "voltage": 18,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-06T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419e"
+  },
+  "voltage": 20,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a1"
+  },
+  "voltage": 3,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-06T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a2"
+  },
+  "voltage": 7,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-06T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ab"
+  },
+  "voltage": 2,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ac"
+  },
+  "voltage": 7,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b7"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441bb"
+  },
+  "voltage": 9,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-06T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441bc"
+  },
+  "voltage": 5,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c6"
+  },
+  "voltage": 4,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-07T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c7"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-07T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441cd"
+  },
+  "voltage": 18,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ce"
+  },
+  "voltage": 6,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d4"
+  },
+  "voltage": 3,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d5"
+  },
+  "voltage": 15,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-07T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d7"
+  },
+  "voltage": 9,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-07T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441d9"
+  },
+  "voltage": 10,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-07T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441db"
+  },
+  "voltage": 6,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-07T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441df"
+  },
+  "voltage": 19,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-07T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441e7"
+  },
+  "voltage": 2,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-07T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441eb"
+  },
+  "voltage": 4,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-07T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ed"
+  },
+  "voltage": 17,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-07T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ef"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-07T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f1"
+  },
+  "voltage": 17,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f2"
+  },
+  "voltage": 19,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-07T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f8"
+  },
+  "voltage": 6,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f9"
+  },
+  "voltage": 20,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-07T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441fd"
+  },
+  "voltage": 12,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444204"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-07T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444206"
+  },
+  "voltage": 1,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-07T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444208"
+  },
+  "voltage": 12,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-07T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420f"
+  },
+  "voltage": 8,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444211"
+  },
+  "voltage": 9,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-07T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444217"
+  },
+  "voltage": 5,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-07T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44421e"
+  },
+  "voltage": 5,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444226"
+  },
+  "voltage": 12,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-08T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444228"
+  },
+  "voltage": 19,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422a"
+  },
+  "voltage": 11,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422b"
+  },
+  "voltage": 10,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-08T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422f"
+  },
+  "voltage": 18,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444233"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-08T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444236"
+  },
+  "voltage": 4,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444238"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-08T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444239"
+  },
+  "voltage": 8,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-08T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423a"
+  },
+  "voltage": 20,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-08T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423f"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444244"
+  },
+  "voltage": 6,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-08T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444246"
+  },
+  "voltage": 9,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-08T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444247"
+  },
+  "voltage": 2,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-08T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444178"
+  },
+  "voltage": 7,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-06T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44417f"
+  },
+  "voltage": 3,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444181"
+  },
+  "voltage": 19,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444183"
+  },
+  "voltage": 17,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-06T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418a"
+  },
+  "voltage": 3,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-06T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418c"
+  },
+  "voltage": 16,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-06T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44418e"
+  },
+  "voltage": 12,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419c"
+  },
+  "voltage": 3,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-06T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419d"
+  },
+  "voltage": 8,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-06T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44419f"
+  },
+  "voltage": 19,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a0"
+  },
+  "voltage": 12,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-06T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a4"
+  },
+  "voltage": 13,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-06T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441a7"
+  },
+  "voltage": 7,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-06T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441aa"
+  },
+  "voltage": 7,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ad"
+  },
+  "voltage": 20,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-06T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b0"
+  },
+  "voltage": 7,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b5"
+  },
+  "voltage": 11,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-06T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441b8"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-06T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441bf"
+  },
+  "voltage": 8,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-06T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441c9"
+  },
+  "voltage": 7,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-07T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441ca"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441dc"
+  },
+  "voltage": 19,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-07T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441dd"
+  },
+  "voltage": 6,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-07T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4441f6"
+  },
+  "voltage": 14,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-07T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444200"
+  },
+  "voltage": 17,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-07T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444201"
+  },
+  "voltage": 15,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-07T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444203"
+  },
+  "voltage": 13,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-07T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444207"
+  },
+  "voltage": 2,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-07T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444209"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-07T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44420c"
+  },
+  "voltage": 16,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-07T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444224"
+  },
+  "voltage": 2,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444229"
+  },
+  "voltage": 18,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-08T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44422e"
+  },
+  "voltage": 4,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-08T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444230"
+  },
+  "voltage": 8,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444231"
+  },
+  "voltage": 1,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44423b"
+  },
+  "voltage": 12,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-08T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444241"
+  },
+  "voltage": 3,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444249"
+  },
+  "voltage": 3,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-08T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444257"
+  },
+  "voltage": 1,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-08T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425b"
+  },
+  "voltage": 19,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444261"
+  },
+  "voltage": 6,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-08T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444263"
+  },
+  "voltage": 18,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-08T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444264"
+  },
+  "voltage": 6,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-08T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444268"
+  },
+  "voltage": 1,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-08T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426d"
+  },
+  "voltage": 10,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-08T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444271"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-08T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427a"
+  },
+  "voltage": 1,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427c"
+  },
+  "voltage": 8,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427f"
+  },
+  "voltage": 17,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-08T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444281"
+  },
+  "voltage": 8,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-08T23:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444283"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444286"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428e"
+  },
+  "voltage": 13,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-09T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444290"
+  },
+  "voltage": 10,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-09T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444296"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-09T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444299"
+  },
+  "voltage": 16,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429a"
+  },
+  "voltage": 9,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429d"
+  },
+  "voltage": 8,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429e"
+  },
+  "voltage": 16,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429f"
+  },
+  "voltage": 8,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-09T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a7"
+  },
+  "voltage": 11,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-09T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ab"
+  },
+  "voltage": 17,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-09T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b0"
+  },
+  "voltage": 14,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b5"
+  },
+  "voltage": 19,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-09T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444248"
+  },
+  "voltage": 4,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44424c"
+  },
+  "voltage": 16,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-08T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444250"
+  },
+  "voltage": 19,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444251"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-08T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444252"
+  },
+  "voltage": 3,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-08T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444255"
+  },
+  "voltage": 20,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-08T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444256"
+  },
+  "voltage": 15,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-08T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444259"
+  },
+  "voltage": 10,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425c"
+  },
+  "voltage": 6,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-08T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425d"
+  },
+  "voltage": 12,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-08T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44425f"
+  },
+  "voltage": 4,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-08T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444260"
+  },
+  "voltage": 11,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-08T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426a"
+  },
+  "voltage": 12,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-08T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426b"
+  },
+  "voltage": 15,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-08T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44426c"
+  },
+  "voltage": 13,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444272"
+  },
+  "voltage": 13,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-08T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444276"
+  },
+  "voltage": 16,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444278"
+  },
+  "voltage": 6,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-08T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427b"
+  },
+  "voltage": 6,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-08T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44427e"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-08T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428a"
+  },
+  "voltage": 8,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-09T01:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44428b"
+  },
+  "voltage": 4,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-09T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444293"
+  },
+  "voltage": 9,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444295"
+  },
+  "voltage": 15,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-09T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44429c"
+  },
+  "voltage": 3,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a1"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a2"
+  },
+  "voltage": 13,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442a3"
+  },
+  "voltage": 11,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442aa"
+  },
+  "voltage": 17,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-09T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ae"
+  },
+  "voltage": 1,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-09T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b4"
+  },
+  "voltage": 6,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-09T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b6"
+  },
+  "voltage": 8,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442bc"
+  },
+  "voltage": 9,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-09T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442be"
+  },
+  "voltage": 8,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-09T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442bf"
+  },
+  "voltage": 20,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c1"
+  },
+  "voltage": 8,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c2"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-09T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c4"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442cb"
+  },
+  "voltage": 15,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-09T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d2"
+  },
+  "voltage": 10,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442db"
+  },
+  "voltage": 12,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-09T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e2"
+  },
+  "voltage": 4,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-09T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e3"
+  },
+  "voltage": 13,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e4"
+  },
+  "voltage": 4,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ef"
+  },
+  "voltage": 6,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-10T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f2"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-10T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f3"
+  },
+  "voltage": 8,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-10T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442fc"
+  },
+  "voltage": 5,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-10T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442fe"
+  },
+  "voltage": 13,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-10T06:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444301"
+  },
+  "voltage": 2,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-10T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444302"
+  },
+  "voltage": 8,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T07:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444305"
+  },
+  "voltage": 6,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-10T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444306"
+  },
+  "voltage": 1,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-10T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430a"
+  },
+  "voltage": 9,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430b"
+  },
+  "voltage": 17,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430d"
+  },
+  "voltage": 20,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430e"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T10:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444310"
+  },
+  "voltage": 7,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444311"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-10T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444314"
+  },
+  "voltage": 16,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444315"
+  },
+  "voltage": 1,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444316"
+  },
+  "voltage": 11,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-10T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444317"
+  },
+  "voltage": 17,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444319"
+  },
+  "voltage": 11,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442b7"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-09T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442bd"
+  },
+  "voltage": 13,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c5"
+  },
+  "voltage": 15,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-09T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c8"
+  },
+  "voltage": 17,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-09T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442c9"
+  },
+  "voltage": 20,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-09T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442cf"
+  },
+  "voltage": 19,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-09T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d3"
+  },
+  "voltage": 15,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-09T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442d9"
+  },
+  "voltage": 11,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-09T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442de"
+  },
+  "voltage": 1,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-09T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442e6"
+  },
+  "voltage": 15,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-10T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ee"
+  },
+  "voltage": 18,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f1"
+  },
+  "voltage": 2,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442f4"
+  },
+  "voltage": 2,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442fa"
+  },
+  "voltage": 10,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-10T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442fd"
+  },
+  "voltage": 17,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4442ff"
+  },
+  "voltage": 13,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444303"
+  },
+  "voltage": 14,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-10T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430c"
+  },
+  "voltage": 12,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44430f"
+  },
+  "voltage": 13,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-10T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444312"
+  },
+  "voltage": 15,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431a"
+  },
+  "voltage": 19,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-10T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431b"
+  },
+  "voltage": 3,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431e"
+  },
+  "voltage": 16,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-10T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44431f"
+  },
+  "voltage": 16,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444327"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-10T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444328"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444329"
+  },
+  "voltage": 7,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432d"
+  },
+  "voltage": 19,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-10T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432e"
+  },
+  "voltage": 6,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-10T18:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444330"
+  },
+  "voltage": 13,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-10T19:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444336"
+  },
+  "voltage": 14,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-10T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444338"
+  },
+  "voltage": 1,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-10T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433d"
+  },
+  "voltage": 7,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-10T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444348"
+  },
+  "voltage": 6,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-11T01:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444349"
+  },
+  "voltage": 20,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434b"
+  },
+  "voltage": 4,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-11T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434d"
+  },
+  "voltage": 20,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-11T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444357"
+  },
+  "voltage": 5,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-11T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435b"
+  },
+  "voltage": 19,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-11T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435c"
+  },
+  "voltage": 8,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-11T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435d"
+  },
+  "voltage": 19,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-11T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44435f"
+  },
+  "voltage": 1,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-11T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444365"
+  },
+  "voltage": 20,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444323"
+  },
+  "voltage": 8,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444324"
+  },
+  "voltage": 2,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-10T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44432f"
+  },
+  "voltage": 5,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444331"
+  },
+  "voltage": 1,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T19:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444335"
+  },
+  "voltage": 18,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-10T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444337"
+  },
+  "voltage": 20,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-10T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44433b"
+  },
+  "voltage": 18,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-10T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444343"
+  },
+  "voltage": 8,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444344"
+  },
+  "voltage": 19,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-11T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444346"
+  },
+  "voltage": 12,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-11T00:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444347"
+  },
+  "voltage": 9,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-11T01:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434e"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T02:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44434f"
+  },
+  "voltage": 16,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-11T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444359"
+  },
+  "voltage": 17,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-11T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444361"
+  },
+  "voltage": 19,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-11T07:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444363"
+  },
+  "voltage": 5,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444367"
+  },
+  "voltage": 5,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-11T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44436a"
+  },
+  "voltage": 5,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-11T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44436b"
+  },
+  "voltage": 1,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-11T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444370"
+  },
+  "voltage": 19,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-11T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444373"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-11T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444379"
+  },
+  "voltage": 13,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-11T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44437a"
+  },
+  "voltage": 9,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-11T13:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44437d"
+  },
+  "voltage": 14,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-11T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44437f"
+  },
+  "voltage": 12,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-11T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444381"
+  },
+  "voltage": 15,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-11T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444386"
+  },
+  "voltage": 16,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444388"
+  },
+  "voltage": 6,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-11T17:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44438b"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44438c"
+  },
+  "voltage": 19,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-11T18:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44438f"
+  },
+  "voltage": 11,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-11T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444394"
+  },
+  "voltage": 6,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-11T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444398"
+  },
+  "voltage": 3,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-11T21:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44439a"
+  },
+  "voltage": 3,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-11T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44439b"
+  },
+  "voltage": 12,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T22:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44439c"
+  },
+  "voltage": 15,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-11T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443af"
+  },
+  "voltage": 18,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-12T03:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b0"
+  },
+  "voltage": 5,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-12T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b1"
+  },
+  "voltage": 5,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-12T03:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b5"
+  },
+  "voltage": 15,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-12T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b8"
+  },
+  "voltage": 4,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-12T05:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ba"
+  },
+  "voltage": 16,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-12T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443bb"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-12T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443c6"
+  },
+  "voltage": 7,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-12T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443cb"
+  },
+  "voltage": 6,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-12T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443cc"
+  },
+  "voltage": 4,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-12T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d3"
+  },
+  "voltage": 7,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-12T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d4"
+  },
+  "voltage": 1,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-12T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d7"
+  },
+  "voltage": 5,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-12T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d8"
+  },
+  "voltage": 4,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-12T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443db"
+  },
+  "voltage": 1,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-12T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443dc"
+  },
+  "voltage": 13,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-12T14:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443de"
+  },
+  "voltage": 18,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-12T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e0"
+  },
+  "voltage": 20,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-12T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e3"
+  },
+  "voltage": 7,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-12T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e9"
+  },
+  "voltage": 10,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-12T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ef"
+  },
+  "voltage": 8,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-12T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443f4"
+  },
+  "voltage": 3,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-12T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443fc"
+  },
+  "voltage": 4,
+  "current": 13,
+  "createdAt": {
+    "$date": "2024-12-12T22:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444412"
+  },
+  "voltage": 14,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-13T03:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444416"
+  },
+  "voltage": 20,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-13T04:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44441a"
+  },
+  "voltage": 4,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-13T05:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44441d"
+  },
+  "voltage": 18,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-13T06:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44441f"
+  },
+  "voltage": 10,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-13T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444426"
+  },
+  "voltage": 18,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-13T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44442c"
+  },
+  "voltage": 7,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-13T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44442f"
+  },
+  "voltage": 4,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-13T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444430"
+  },
+  "voltage": 20,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-13T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444432"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-13T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444434"
+  },
+  "voltage": 13,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-13T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444435"
+  },
+  "voltage": 14,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-13T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444436"
+  },
+  "voltage": 17,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-13T12:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444438"
+  },
+  "voltage": 19,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-13T13:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444441"
+  },
+  "voltage": 4,
+  "current": 1,
+  "createdAt": {
+    "$date": "2024-12-13T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444449"
+  },
+  "voltage": 2,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-13T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44444d"
+  },
+  "voltage": 3,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-13T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44444f"
+  },
+  "voltage": 11,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-13T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444452"
+  },
+  "voltage": 12,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-13T19:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444453"
+  },
+  "voltage": 9,
+  "current": 6,
+  "createdAt": {
+    "$date": "2024-12-13T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444456"
+  },
+  "voltage": 17,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-13T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44445a"
+  },
+  "voltage": 14,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-13T21:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44436c"
+  },
+  "voltage": 1,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-11T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444371"
+  },
+  "voltage": 13,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-11T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44437b"
+  },
+  "voltage": 11,
+  "current": 19,
+  "createdAt": {
+    "$date": "2024-12-11T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444380"
+  },
+  "voltage": 14,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-11T15:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444382"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-11T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444384"
+  },
+  "voltage": 16,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-11T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44438a"
+  },
+  "voltage": 2,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-11T17:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444396"
+  },
+  "voltage": 5,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-11T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44439d"
+  },
+  "voltage": 17,
+  "current": 4,
+  "createdAt": {
+    "$date": "2024-12-11T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b44439e"
+  },
+  "voltage": 18,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-11T22:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443a4"
+  },
+  "voltage": 5,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-12T00:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443a5"
+  },
+  "voltage": 12,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-12T00:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443a9"
+  },
+  "voltage": 3,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-12T01:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ab"
+  },
+  "voltage": 12,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-12T02:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ac"
+  },
+  "voltage": 20,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-12T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ad"
+  },
+  "voltage": 13,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-12T02:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b3"
+  },
+  "voltage": 18,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-12T04:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b4"
+  },
+  "voltage": 6,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-12T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443b9"
+  },
+  "voltage": 3,
+  "current": 5,
+  "createdAt": {
+    "$date": "2024-12-12T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443bc"
+  },
+  "voltage": 12,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-12T06:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443c3"
+  },
+  "voltage": 1,
+  "current": 3,
+  "createdAt": {
+    "$date": "2024-12-12T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443c7"
+  },
+  "voltage": 5,
+  "current": 7,
+  "createdAt": {
+    "$date": "2024-12-12T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443c8"
+  },
+  "voltage": 13,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-12T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d0"
+  },
+  "voltage": 20,
+  "current": 11,
+  "createdAt": {
+    "$date": "2024-12-12T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443d9"
+  },
+  "voltage": 10,
+  "current": 8,
+  "createdAt": {
+    "$date": "2024-12-12T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e2"
+  },
+  "voltage": 15,
+  "current": 2,
+  "createdAt": {
+    "$date": "2024-12-12T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e4"
+  },
+  "voltage": 5,
+  "current": 12,
+  "createdAt": {
+    "$date": "2024-12-12T16:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e6"
+  },
+  "voltage": 20,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-12T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443e7"
+  },
+  "voltage": 10,
+  "current": 9,
+  "createdAt": {
+    "$date": "2024-12-12T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443ed"
+  },
+  "voltage": 17,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-12T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443f3"
+  },
+  "voltage": 6,
+  "current": 10,
+  "createdAt": {
+    "$date": "2024-12-12T20:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443f5"
+  },
+  "voltage": 19,
+  "current": 15,
+  "createdAt": {
+    "$date": "2024-12-12T20:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443f6"
+  },
+  "voltage": 9,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-12T20:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b4443f7"
+  },
+  "voltage": 12,
+  "current": 17,
+  "createdAt": {
+    "$date": "2024-12-12T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444400"
+  },
+  "voltage": 6,
+  "current": 18,
+  "createdAt": {
+    "$date": "2024-12-12T23:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444402"
+  },
+  "voltage": 14,
+  "current": 14,
+  "createdAt": {
+    "$date": "2024-12-12T23:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444403"
+  },
+  "voltage": 16,
+  "current": 16,
+  "createdAt": {
+    "$date": "2024-12-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67768571ac53b63f4b444405"
+  },
+  "voltage": 8,
+  "current": 20,
+  "createdAt": {
+    "$date": "2024-12-13T00:30:00.000Z"
+  }
+}

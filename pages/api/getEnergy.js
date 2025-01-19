@@ -3,9 +3,7 @@ import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    const client = new MongoClient(
-      "mongodb+srv://devOligarch:!%40Kinuthia2024!@devworks.s8vt2mn.mongodb.net/?retryWrites=true&w=majority&appName=DevWorks"
-    );
+    const client = new MongoClient(process.env.MONGO_LOCAL);
 
     try {
       await client.connect();

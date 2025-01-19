@@ -5,7 +5,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const client = new MongoClient(process.env.MONGODB_URI);
+  const client = new MongoClient(process.env.MONGO_LOCAL);
 
   try {
     // Connect to MongoDB
@@ -13,15 +13,13 @@ export default async function handler(req, res) {
     const db = client.db("wahito");
 
     const energyCollection = db.collection("energy_data");
-    const irradianceCollection = db.collection("irradiance_data");
 
     // Generate date range
-    const startDate = new Date("2024-12-26T00:00:00Z");
-    const endDate = new Date("2025-01-09T23:59:59Z");
+    const startDate = new Date("2025-01-01T00:00:00Z");
+    const endDate = new Date("2025-02-28T23:59:59Z");
     const interval = 15 * 60 * 1000; // 15 minutes in milliseconds
 
     const energyData = [];
-    const irradianceData = [];
 
     for (
       let timestamp = startDate.getTime();
@@ -34,20 +32,14 @@ export default async function handler(req, res) {
       const voltage = Math.floor(Math.random() * 20) + 1; // Random voltage between 1 and 20
       const current = Math.floor(Math.random() * 20) + 1; // Random current between 1 and 20
       energyData.push({ voltage, current, createdAt });
-
-      // Generate random values for irradiance_data
-      const irradiance = Math.floor(Math.random() * 20) + 1; // Random irradiance between 1 and 20
-      irradianceData.push({ irradiance, createdAt });
     }
 
     // Insert data into collections
     await energyCollection.insertMany(energyData);
-    await irradianceCollection.insertMany(irradianceData);
 
     res.status(200).json({
       message: "Data successfully populated",
       energyRecordsInserted: energyData.length,
-      irradianceRecordsInserted: irradianceData.length,
     });
   } catch (error) {
     console.error("Error populating data:", error);
