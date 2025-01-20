@@ -148,6 +148,72 @@ export default function Dashboard() {
     }
   };
 
+  /** System sizing calculations **/
+
+  // Inverter sizing
+  const marketSizes = [500, 1000, 1500, 2000, 3000, 4000, 5000, 6000];
+  let inverterSizing = (data?.peakEnergy?.energy_wh / 0.25) * 1.25;
+  const roundedInverterSize = marketSizes.find(
+    (size) => size >= inverterSizing
+  );
+  const finalInverterSize = roundedInverterSize || Math.max(...marketSizes);
+
+  // Battery sizing
+  let daysOfAutonomy = 1.5;
+
+  const getBatteryVoltage = (inverterSize) => {
+    let voltage;
+
+    if (inverterSize > 0 && inverterSize <= 2000) {
+      voltage = 12;
+    } else if (inverterSize > 2000 && inverterSize <= 4000) {
+      voltage = 24;
+    } else if (inverterSize > 4000) {
+      voltage = 48;
+    } else {
+      voltage = null;
+    }
+
+    return voltage;
+  };
+
+  const getBatteryCapacity = (
+    daysOfAutonomy,
+    batteryVoltage,
+    dailyAvgEnergy
+  ) => {
+    console.log(daysOfAutonomy, batteryVoltage, dailyAvgEnergy);
+    let capacities = [];
+
+    let types = ["lead-acid", "lithium-ion"];
+
+    for (let type of types) {
+      let DoD = type == "lead-acid" ? 0.5 : 0.8;
+      let capacity = Math.ceil(
+        (dailyAvgEnergy * daysOfAutonomy) / (batteryVoltage * DoD)
+      );
+
+      capacities.push({
+        type,
+        capacity,
+      });
+    }
+
+    return capacities;
+  };
+
+  let voltage = getBatteryVoltage(finalInverterSize);
+  let capacity = getBatteryCapacity(
+    daysOfAutonomy,
+    voltage,
+    data?.averageEnergy
+  );
+
+  // Solar panel sizing
+  const solarPanelWattage = Math.ceil(
+    (voltage * capacity[0]?.capacity) / data?.peakSolarHrs[1]?.peakHours
+  );
+
   // Clear energy data on date change
   const handleOnDateChange = useCallback(async (_dates) => {
     if ((_dates[0] && _dates[1]) || (_dates[0] && !_dates[1])) {
@@ -163,8 +229,6 @@ export default function Dashboard() {
       });
     }
   }, []);
-
-  let inverterSizing = (data?.peakEnergy?.energy_wh / 0.25) * 1.25;
 
   return (
     <div>
@@ -296,24 +360,31 @@ export default function Dashboard() {
           <Card shadow="sm" padding="lg" radius="md" withBorder>
             <div className="space-y-4">
               <div className="flex justify-between border-b">
-                <p className="text-slate-600 text-[0.8rem]">
-                  Solar panels recommendation
-                </p>
-                <strong>x kWp </strong>
+                <p className="text-slate-600 text-[0.8rem]">Solar panels</p>
+                <strong>{solarPanelWattage} W </strong>
               </div>
 
               <div className="flex justify-between border-b">
                 <p className="text-slate-600 text-[0.8rem]">
-                  Battery capacity recommendation
+                  Battery capacity (Lead acid)
                 </p>
-                <strong>x kWh </strong>
+                <strong>
+                  {capacity[0]?.capacity} Ah , {voltage} V{" "}
+                </strong>
+              </div>
+
+              <div className="flex justify-between border-b">
+                <p className="text-slate-600 text-[0.8rem]">
+                  Battery capacity (Li-Ion)
+                </p>
+                <strong>
+                  {capacity[1]?.capacity} Ah , {voltage} V{" "}
+                </strong>
               </div>
 
               <div className="flex justify-between">
-                <p className="text-slate-600 text-[0.8rem]">
-                  Inverter recommendation
-                </p>
-                <strong>{inverterSizing} W </strong>
+                <p className="text-slate-600 text-[0.8rem]">Inverter</p>
+                <strong>{finalInverterSize} W </strong>
               </div>
             </div>
           </Card>
