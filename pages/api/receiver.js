@@ -1,12 +1,11 @@
+import { MONGO_LOCAL } from "@/utils/db";
 import { MongoClient } from "mongodb";
 
 export default async function handler(req, res) {
   if (req.method === "POST") {
-    const { irradiance, voltage, current } = req.body;
+    const { voltage, current } = req.body;
 
-    const client = new MongoClient(
-      "mongodb+srv://devOligarch:!%40Kinuthia2024!@devworks.s8vt2mn.mongodb.net/?retryWrites=true&w=majority&appName=DevWorks"
-    );
+    const client = new MongoClient(MONGO_LOCAL);
 
     try {
       await client.connect();
@@ -16,12 +15,6 @@ export default async function handler(req, res) {
       await energy_data_collection.insertOne({
         voltage: parseFloat(voltage),
         current: parseFloat(current),
-        createdAt: new Date(),
-      });
-
-      const irradiance_data_collection = database.collection("irradiance_data");
-      await irradiance_data_collection.insertOne({
-        irradiance: parseFloat(irradiance),
         createdAt: new Date(),
       });
 
