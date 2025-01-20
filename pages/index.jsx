@@ -189,13 +189,14 @@ export default function Dashboard() {
 
     for (let type of types) {
       let DoD = type == "lead-acid" ? 0.5 : 0.8;
-      let capacity = Math.ceil(
+      let _capacity = Math.ceil(
         (dailyAvgEnergy * daysOfAutonomy) / (batteryVoltage * DoD)
       );
+      let roundedCapacity = Math.ceil(_capacity / 50) * 50;
 
       capacities.push({
         type,
-        capacity,
+        capacity: roundedCapacity,
       });
     }
 
@@ -213,6 +214,8 @@ export default function Dashboard() {
   const solarPanelWattage = Math.ceil(
     (voltage * capacity[0]?.capacity) / data?.peakSolarHrs[1]?.peakHours
   );
+
+  const roundedSolarPanelWattage = Math.ceil(solarPanelWattage / 50) * 50;
 
   // Clear energy data on date change
   const handleOnDateChange = useCallback(async (_dates) => {
@@ -361,7 +364,7 @@ export default function Dashboard() {
             <div className="space-y-4">
               <div className="flex justify-between border-b">
                 <p className="text-slate-600 text-[0.8rem]">Solar panels</p>
-                <strong>{solarPanelWattage} W </strong>
+                <strong>{roundedSolarPanelWattage} W </strong>
               </div>
 
               <div className="flex justify-between border-b">
